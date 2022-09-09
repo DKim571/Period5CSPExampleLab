@@ -1,4 +1,9 @@
 public class ProgramIsMyFirst {
-    Something goes here
+    public static void main(String args[]) {
+
+        System.out.print("Hello World!");
+
+    }
+
 
 }
